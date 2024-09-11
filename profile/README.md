@@ -17,6 +17,7 @@
     - Utilities for using LLMs
 
 ### Repository Versioning Protocol 
+In general, our repositories use the following versioning protocol:
 - Major releases based on feature additions (ex: 1.0, 2.0, 3.0, etc) - labelled using git tags 
 - Minor releases based on bug fixes (ex: 1.1, 1.2, 1.3, etc) 
 - Releases only live in Main branch (not dev or any other branch) 
