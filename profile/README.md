@@ -15,3 +15,9 @@
     - Evaluation of LLMs' ability to extract, summarize, and classify information from scientific literature
 12. llm-tools
     - Utilities for using LLMs
+
+### Repository Versioning Protocol 
+- Major releases based on feature additions (ex: 1.0, 2.0, 3.0, etc) - labelled using git tags 
+- Minor releases based on bug fixes (ex: 1.1, 1.2, 1.3, etc) 
+- Releases only live in Main branch (not dev or any other branch) 
+- All version updates should be summarized in a changelog.
