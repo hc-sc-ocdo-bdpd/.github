@@ -23,4 +23,5 @@ In general, our repositories use the following versioning protocol:
 - Releases only live in Main branch (not dev or any other branch)
 - All version updates should be summarized in a changelog.
 
-![Conceptual Suite Diagram](src/Concept_IDP_Suite_Diagram.jpg)
+![Conceptual Suite Diagram](../src/Concept_IDP_Suite_Diagram.jpg)
+
